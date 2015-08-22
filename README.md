@@ -1,2 +1,2 @@
 # app_salespage
-Photo Sharing App
+My First Bootstrap Project
